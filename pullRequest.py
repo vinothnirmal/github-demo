@@ -1,1 +1,1 @@
-Tyring to check pull request
+print("Tyring to check pull request")
