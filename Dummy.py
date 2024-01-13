@@ -1,1 +1,0 @@
-print("Trying to check the delete option from local to Github")
